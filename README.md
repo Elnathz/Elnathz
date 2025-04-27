@@ -1,11 +1,11 @@
-<div align="center">
-  <img height="250" src="https://media1.tenor.com/m/3NQvh3ExGSEAAAAd/himmel-makes-me-wanna-die-hes-so-pretty.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Farros Rifantiarno Ramadhani</h1>
+<h3 align="center">A College Student That Currently Learning Fullstack</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnathz&label=Profile%20views&color=0e75b6&style=flat" alt="elnathz" /> </p>
 
-<h2 align="center">Hi 👋! My name's Farros Rifantiarno Ramadhani and I'm currently study at Universitas Dian Nuswantoro Semarang.</h2>
+- 🌱 I’m currently learning **Node JS and Laravel**
 
+- 📫 How to reach me **farrosrifantiarno32@gmail.com**
 ###
 
 <div align="left">
@@ -59,7 +59,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/@eln">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=omp6e1mg6cc9x62mmj5nxuuu6&count={1<count<5})" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=omp6e1mg6cc9x62mmj5nxuuu6" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -77,11 +77,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elnathz/Elnathz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elnathz/Elnathz/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Elnathz/count.svg?"  />
-</div>
 
 ###
