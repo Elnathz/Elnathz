@@ -1,78 +1,118 @@
-<h1 align="center">Hi 👋, I'm Farros Rifantiarno Ramadhani</h1>
+<h1 align="center">Farros Rifantiarno Ramadhani</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elnathz&label=Profile%20views&color=0e75b6&style=flat" alt="elnathz" /> </p>
+<p align="center"><strong>Fullstack Development & Applied Machine Learning</strong></p>
 
-- 📫 How to reach me **farrosrifantiarno32@gmail.com**
-###
+<p align="center">
+  Informatics student at Universitas Dian Nuswantoro, Semarang.<br>
+  I build web applications, connect frontend and backend systems, and work with speech models.
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
-</div>
+<p align="center">
+  <a href="https://eln-portofolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0369A1?style=for-the-badge" alt="Visit my portfolio"></a>
+  <a href="https://drive.google.com/file/d/1byCOh-Z9FMk8nQRmUPKPIDyo3wRF9pLs/view?usp=sharing"><img src="https://img.shields.io/badge/CV-24292F?style=for-the-badge" alt="View my CV"></a>
+  <a href="https://www.linkedin.com/in/farros-rifantiarno-ramadhani-50840a2a9/"><img src="https://img.shields.io/badge/LinkedIn-24292F?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <a href="mailto:farrosrifantiarno32@gmail.com"><img src="https://img.shields.io/badge/Email-24292F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Farros"></a>
+</p>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elnathz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/frrosrift_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="farrosrifantiarno32@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/farros-rifantiarno-ramadhani-50840a2a9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/elnathhz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+## Selected projects
 
-###
+### CryptoForge
 
-<div align="center">
-  <a href="https://open.spotify.com/user/@eln">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=omp6e1mg6cc9x62mmj5nxuuu6" alt="Spotify recently played"  />
-  </a>
-</div>
+**Crypto education & membership platform. In development.**
 
-###
+Building role-based learning and membership workflows, with planned payment integrations, market tools, a trading journal, and automated news delivery.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elnathz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elnathz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+**Stack:** Laravel, Vue 3, Inertia, Tailwind CSS, MySQL, Redis, Docker.
 
-###
+### Rangkul
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elnathz/Elnathz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elnathz/Elnathz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Elnathz/Elnathz/output/pacman-contribution-graph.svg">
-</picture>
+**Community-based elder care. Project Lead & Fullstack Developer.**
 
-###
+Connects families, helpers, coordinators, and administrators through role-based access, verification, care tasks, notifications, and location workflows.
+
+**Stack:** Next.js, TypeScript, Supabase, PostgreSQL, Tailwind CSS.
+
+[Source code](https://github.com/Elnathz/rangkul) · [Live demo](https://merangkul.vercel.app/)
+
+### SEAPEDIA
+
+**Multi-role marketplace for buyers, sellers, drivers, and administrators.**
+
+Combines wallet and checkout flows with delivery, promotions, and reporting. My work spans frontend and backend integration through production deployment.
+
+**Stack:** Laravel, Vue 3, TypeScript, Inertia, MySQL, Docker.
+
+[Source code](https://github.com/Elnathz/seapedia) · [Website](https://seapedia.web.id/)
+
+### Kolaborasa Muda Indonesia
+
+**Organization website. Web Developer.**
+
+Developing the organization's web presence for programs, activities, registrations, content publishing, and contact forms.
+
+**Stack:** HTML, CSS, Node.js, Firebase, MongoDB.
+
+[Website](https://kolaborasamuda.id/)
+
+### Speech Emotion Recognition
+
+**Speech emotion analysis. Collaborative machine learning project.**
+
+Classifies six emotions using a fine-tuned WavLM model. The Streamlit app supports audio upload and recording, emotion probabilities, and Whisper transcription with timestamped segments.
+
+**Stack:** Python, PyTorch, Hugging Face Transformers, WavLM, Whisper, Streamlit, librosa.
+
+[Source code](https://github.com/Elnathz/speech-emotion-recognition) · [Live demo](https://emotionrecognitionspeech.streamlit.app/)
+
+## Technologies I work with
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-24292F?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white)
+
+### Web development
+
+![Laravel](https://img.shields.io/badge/Laravel-24292F?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-24292F?style=flat-square&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24292F?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Databases & infrastructure
+
+![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-24292F?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white)
+
+### Machine learning & data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-24292F?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-24292F?style=flat-square&logo=huggingface&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-24292F?style=flat-square&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-24292F?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-24292F?style=flat-square&logo=pandas&logoColor=white)
+
+<details>
+<summary>More tools & platforms</summary>
+
+- **Web:** HTML, CSS, CodeIgniter 4, Livewire, Inertia, Bootstrap.
+- **Data:** MongoDB, Firebase, librosa, Jupyter Notebook.
+- **Mobile & desktop:** Dart, Flutter, Java, Java Swing.
+- **Creative tools:** Photoshop, Premiere Pro, After Effects, Canva.
+
+</details>
+
+## Connect
+
+[Portfolio](https://eln-portofolio.vercel.app/) · [CV](https://drive.google.com/file/d/1byCOh-Z9FMk8nQRmUPKPIDyo3wRF9pLs/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/farros-rifantiarno-ramadhani-50840a2a9/) · [Email](mailto:farrosrifantiarno32@gmail.com) · [Instagram](https://www.instagram.com/frrosrift_)
